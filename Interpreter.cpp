@@ -6,7 +6,7 @@
 //to output to console instead of file, simply uncomment the two cout statements
 #include<iostream>
 #include<string>
-#include<fstream>;
+#include<fstream>
 using namespace std;
 int main()
 {
